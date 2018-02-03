@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 2nd, 2018
 
 ## Student Name:  
-(First and Last Name)
+Jonathan Garcia
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is to learn about Version Control Systems, specifically Git, which allows for file-sharing and peer editing.
+
+## View Project
+https://jfg16.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Git allows for remote and local repositories to exchange, move and merge files in between them.
+2. Commands are the way to transfer, merge, edit and create more local repositories.
+3. VCS allows for team collaboration, with much detail about date, editors and tracking history.
 
